@@ -1,4 +1,4 @@
-# vuether
+# recipe
 
 ## Project setup
 ```
